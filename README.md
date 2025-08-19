@@ -11,6 +11,12 @@ A modern, feature-rich Trello clone built with React.js and Tailwind CSS. TaskFl
 <img width="1915" height="1011" alt="2025-08-19 (3)" src="https://github.com/user-attachments/assets/bf121e66-0dee-4321-aa97-69c231312430" />
 <img width="1904" height="1005" alt="2025-08-19 (2)" src="https://github.com/user-attachments/assets/e7fd45a3-9e00-413e-9d3c-501ad86f473d" />
 
+👨‍💻 Developer
+Built with ❤️ by Lohitha Damarla
+
+💼 LinkedIn Profile - Lohitha Damarla
+🌐 Portfolio Website
+📧 Email - lohidamarla@gmail.com
 
 ## ✨ Features
 
