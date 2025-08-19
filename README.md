@@ -267,7 +267,7 @@ copies or substantial portions of the Software.
 
 ---
 
-- 👨‍💻 Developer
+## 👨‍💻 Developer
 Built with ❤️ by Lohitha Damarla
 
 💼 LinkedIn Profile - Lohitha Damarla
